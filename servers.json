@@ -837,5 +837,12 @@
         "addresses": [
             "beastmc.net"
         ]
+    },
+    {
+        "id": "westpvp",
+        "name": "WestPvP.Live",
+        "addresses": [
+            "westpvp.live"            
+        ]
     }
 ]
