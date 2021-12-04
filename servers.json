@@ -1015,5 +1015,12 @@
         "addresses": [
             "twistedmc.net"
         ]
+    },
+    {
+        "id": "westpvp",
+        "name": "WestPvP Network",
+        "addresses": [
+            "westpvp.live"
+        ]        
     }
 ]
